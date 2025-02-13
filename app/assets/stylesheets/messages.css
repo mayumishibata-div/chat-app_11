@@ -38,7 +38,14 @@
   overflow: scroll;
 }
 
+.room {
+  padding: 20px 0 40px;
+}
 
+.room-name a {
+  text-decoration: none;
+  color: white;
+}
 
 .chat {
   background-color: #FFFFFF;
